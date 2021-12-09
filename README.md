@@ -1,16 +1,13 @@
-# -
-永久收藏，网址更新，收藏备份，科学上网。点击以下网址进入
+# Shadowingy加速最新可用域名
 
-https://github.com/shadowrocketcom/Shadowrocket/wiki
+### 当域名遭到污染（墙）我们会在此页面发布新的大陆可访问域名
+### 防止失联请大家将此页面加入书签
 
-我们的家，请收藏备份，网址不定期更新
+QQ群：[865014542](https://wpa.qq.com/msgrd?v=3&uin=3120176288&site=qq&menu=yes)
 
-http://www.shadowrocket.club 被墙 需要科学上网打开
-
-http://shadowingy.ml 可用
-
-http://www.shadowingy.ml 可用
-
-https://www.shadowingypro.xyz 可用
-
-https://shadowingypro.xyz 可用 
+#### 大陆可访问域名
+- https://www.shadowingy.top   （引导页）
+- https://shadowingy.top  （引导页）
+- https://shadowingy.cf
+- https://www.shadowingy.cf
+- 
