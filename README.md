@@ -6,7 +6,7 @@
 QQ群：[865014542](https://wpa.qq.com/msgrd?v=3&uin=3120176288&site=qq&menu=yes)
 
 #### 大陆可访问域名
-- https://test.ssr99.top   （引导页）
+- http://test.ssr99.top   （引导页）
 - https://www.shadowingy.top   （网站）
 - https://shadowingy.top  （网站）
 - https://shadowingy.cf
